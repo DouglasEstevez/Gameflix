@@ -1,0 +1,10 @@
+@media screen and (max-width: 700px) {
+    hearder .container{
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .botao{
+        margin-top: 10px;
+    }
+}
